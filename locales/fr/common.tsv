@@ -1033,19 +1033,19 @@ theme	Appearance	Apparence
 	Selection	Sélection
 	Selection Tool	Outil Sélection
 	Selective	Sélective
-	Send Backward	En arrière
+	Send Backward	Mettre à l'arrière
 	Send to Back	Mettre à l'arrière-plan
 	Sensitivity	Sensibilité
-	Sent to {printer}	Envoyé à {printer}
+	Sent to {printer}	Envoyé à {imprimante}
 	Services	Services
 	Set	Définir
 	Set as Default	Définir par défaut
-	Set:	Jeu :
+	Set:	Jeu:
 	Settings	Réglages
-	Settings:	Paramètres :
+	Settings:	Paramètres:
 	Settings…	Réglages…
 	Shadow	Ombre
-	Shadows	Tons foncés
+	Dark Tones	Tons foncés
 	Shape	Forme
 	Shape Effects	Effets de forme
 	Shape:	Forme :
@@ -1068,11 +1068,11 @@ theme	Appearance	Apparence
 	Show Rulers	Afficher les règles
 	Show rulers	Afficher les règles
 	Show Tool Tips	Afficher les info-bulles
-	Show:	Afficher :
-	Sides:	Côtés :
+	Show:	Afficher:
+	Sides:	Côtés:
 	Simplify	Simplifier
 	Size	Taille
-	Size:	Taille :
+	Size:	Taille:
 	Sketch	Esquisse
 	Skew	Inclinaison
 	Slice	Tranche
